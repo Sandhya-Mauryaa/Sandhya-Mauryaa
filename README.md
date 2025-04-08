@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandhya-Mauryaa
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning DSA with Java
+- 👀 I’m interested in FullStack Development
+- 🌱 I’m currently learning Frontend Development
 - 💞️ I’m looking to collaborate on Small scale projects
 - 📫 You can reach me [Here](mailto:sandhyamauryaa296@gmail.com)
 - ⚡ Fun fact: There's NOTHING!
