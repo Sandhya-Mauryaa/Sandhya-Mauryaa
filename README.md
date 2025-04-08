@@ -1,25 +1,35 @@
-# Hi there, I'm Sandhya Maurya! 👋
+- 👋 Hi, I’m @Sandhya-mauryaa
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning DSA with Java
+- 💞️ I’m looking to collaborate on Small scale projects
+- 📫 You can reach me [Here](mailto:sandhyamauryaa296@gmail.com)
+- ⚡ Fun fact: There's NOTHING!
 
-I'm passionate about data science and analytics. I'm currently enhancing my analytical skills and learning various machine learning models.
+---
 
-## GitHub Statistics
+<div align="center">
+    <h1 align="center"> ⚛️ Github Stats</h1>
 
-![Sandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandhya-mauryaa&show_icons=true&theme=radical)
+<img src="https://github-profile-trophy.vercel.app/?username=Sandhya-mauryaa&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 
-## Top Languages
+  |<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Sandhya-mauryaa&theme=dark&show_icons=true&count_private=true" alt=Sandhya-mauryaa>|<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-mauryaa&theme=dark&show_icons=true&layout=compact">|
+  |---|---|
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sandhya-mauryaa&layout=compact&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Sandhya-mauryaa&theme=tokyonight" width="650px"><br>
 
-## Pinned Repositories
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandhya-mauryaa&theme=github-compact">
 
-[![Olympics PowerBI Report](https://github-readme-stats.vercel.app/api/pin/?username=sandhya-mauryaa&repo=Olympics-Powerbi-Report&theme=radical)](https://github.com/sandhya-mauryaa/Olympics-Powerbi-Report)
+</div> 
 
-[![Body Mass Index Calculator](https://github-readme-stats.vercel.app/api/pin/?username=sandhya-mauryaa&repo=Body-Mass-Index-calculator&theme=radical)](https://github.com/sandhya-mauryaa/Body-Mass-Index-calculator)
+<img width="2000rem" src="https://raw.githubusercontent.com/SamirPaulb/SamirPaulb/main/assets/rainbow-superthin.webp">
 
-[![Data Scraping](https://github-readme-stats.vercel.app/api/pin/?username=sandhya-mauryaa&repo=Data_Scraping&theme=radical)](https://github.com/sandhya-mauryaa/Data_Scraping)
+<br>
 
-## Connect with Me
-
-- Email: sandhya.mourya1998@gmail.com
-- LinkedIn: [sandhya-mourya-a03b46150](https://www.linkedin.com/in/sandhya-mourya-a03b46150)
-
+<div align="center">
+  <a href="https://github.com/Sandhya-mauryaa">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sandhya-mauryaa&theme=dark">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sandhya-mauryaa&theme=dark">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sandhya-mauryaa&theme=dark">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sandhya-mauryaa&theme=dark&utcOffset=8">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sandhya-mauryaa&theme=dark">
+</div>
